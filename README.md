@@ -21,7 +21,7 @@ Specify the translation of the required request parameter.
 
 **Get an object with a range of verses from a selected chapter and book in the Bible:**
 
-    https://justbible.ru/api/bible?book=53&chapter=13&verses=4-8
+    https://justbible.ru/api/bible?translation=rbo&book=53&chapter=13&verses=4-8
 
 **Get an object with a list of specified verses from the selected chapter and book in the Bible:**
 
